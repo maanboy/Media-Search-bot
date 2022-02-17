@@ -85,10 +85,10 @@ logger - Get log file
 ## Contributions
 Contributions are welcome.
 
-## Thanks to [Pyrogram](https://github.com/pyrogram/pyrogram)
+## Thanks to [Pyrogram](https://t.me/moviessearch_box)
 
 ## Support
-[Update Channel](https://t.me/botxupdates) and [Support Group](https://t.me/botxsupport)
+[Update Channel](https://t.me/moviessearch_box) and [Support Group](https://t.me/moviessearch_box)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
